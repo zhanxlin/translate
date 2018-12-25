@@ -1,0 +1,21 @@
+患者 ：不好意思医生，打扰您了！我今天早上起来的时候想吃点饭，刚吃一口就感觉胃开始疼，接着肚子和胃都疼。Yrequest+symptom
+医生：你好，请问具体是哪个位置疼呢？Banswer + symptom
+患者：感觉胸下边左右两边也都有点儿疼。Yrequest+symptom
+医生：是哪一种疼痛？抽痛还是胀痛？Banswer + symptom
+患者： 就像痉挛似的。Yrequest+symptom
+医生：请问还有其他症状吗？Banswer + symptom
+患者：然后就有点儿恶心往上反，干哕好几下也没吐出来。Yrequest+symptom
+医生：后来有缓解吗？Banswer + symptom
+患者：然后睡着了好一点点，醒了还是疼，不舒服，一直到现在也没好！Yrequest+symptom
+医生：今天有没有吃东西？Banswer + symptom
+患者：我是不能吃东西了！一吃就难受！Yrequest+symptom
+医生：怎么会这样？有没有什么诱因？昨天晚上吃什么了？Banswer + symptom
+患者：最近白天不睡觉了，晚上睡得还挺好的，昨天吃了点儿鸡肉鸡肝什么的。Yrequest+symptom
+医生？有没有拉肚子今天？Banswer + symptom
+患者：没有！Yrequest+symptom
+医生：早晨起来是吃什么饭了？昨晚休息咋样？ Banswer + symptom
+患者：今天早上起来买的馄饨，刚吃下去一个就感觉胃疼 Yrequest+symptom
+医生：最近还有没有类似的症状？Banswer + symptom
+患者：我最近偶尔也感觉右下腹有点儿小疼似的，后腰也有点儿疼，不知道是我的膀胱炎的缘故还是消化系统引起的，有点儿害怕，不敢吃东西！医生，我是不是大病！好担心哇！！医生：这个显然是胃的问题，可能是有胃炎，胃溃疡的可能，那么不如查查胃镜吧，如果症状这么严重。 Yrequest+symptom
+患者：胃镜！不会是什么胆囊炎阑尾炎的吗！好害怕阿！现在感觉好点儿了！吃了点儿面包，不那么疼了。Banswer + symptom
+医生：胆囊炎是右上腹疼痛，阑尾炎是右下腹疼痛，似乎不是哟，但是我没有见你查过胃镜，所以建议有条件的话，来医院做一下检查！Yrequest+symptom

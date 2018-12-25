@@ -1,0 +1,17 @@
+患者：医生，我肚子疼，胃部位置。Yrequest+symptom
+医生：你现在疼的很厉害吗？Banswer + symptom
+患者：一天疼几次。人疼的受不了。Yrequest+symptom
+医生：有什么诱因后出现的胃疼吗？Banswer + symptom
+患者：刚好人流过后。人感冒了然后就一直疼。Yrequest+symptom
+医生：腹痛是阵发还是持续？Banswer + symptom
+患者：阵发疼一天几次。Yrequest+symptom
+医生：和进食有关系吗？Banswer + symptom
+患者：吃东西就会肚子疼！Yrequest+symptom
+医生：不知道大便如何？Banswer + symptom
+患者：大便还好。Yrequest+symptom
+医生：有没有心脏病史？Banswer + symptom
+患者：没心脏病史。Yrequest+symptom
+医生：有没有做过什么检查？检查结果怎么样？Banswer + symptom
+患者：检查正常。Yrequest+symptom
+医生：有没有吃过什么药物？有缓解吗？Banswer + symptom
+患者：医生拿了点消炎药。有所缓解，还是会痛。Yrequest+symptom

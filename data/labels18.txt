@@ -1,0 +1,11 @@
+患者：医生，我今年四月份到海水浴场游玩，下了海，当时海水挺凉的，回来吃了拌饭之后就开始呕吐。Yrequest+symptom
+医生：呕吐严重吗？吐了几次？Banswer + symptom
+患者：两个小时吐了九次。Yrequest+symptom
+医生：除了呕吐还有其他症状吗？Banswer + symptom
+患者：呕吐第二天胃部抽痛，服药之后好转。后来胃就一直不太好，前段时间吃了冷的东西又开始呕吐和胃痛，现在好了，但是胃还是会经常不适隐痛。Yrequest+symptom
+医生：有没有食欲不振，恶心呕吐，腹泻等症状？Banswer + symptom
+患者：有食欲不振。Yrequest+symptom
+医生：胃痛有什么规律吗？Banswer + symptom
+患者：吃冷的辣的东西会加重症状。请问医生这是胃炎吗？Yrequest+symptom
+医生：你的症状是一个比较典型的慢性胃炎和胃溃疡症状，出现这种情况，如果超过一个月以上的，我是建议你到医院消化科要做检查的，做幽门螺旋杆菌检测和胃镜的检查。Banswer + symptom
+患者：需要服用什么药物来调整？平时生活饮食需要注意什么？ Yrequest+symptom

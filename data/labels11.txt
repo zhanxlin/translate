@@ -1,0 +1,8 @@
+患者：医生，我一直胃就不好，打嗝打的很多，然后这次可能吃了什么东西感觉胃里面反出一股气体，嘴巴里面是臭味！Yrequest+symptom
+医生：你好可以描述一下是什么臭味吗？Banswer + symptom
+患者：臭鸡蛋味！Yrequest+symptom
+医生：还有其他不舒服吗？Banswer + symptom
+患者：胃也不大舒服，反正觉得喉咙上一直有气体，而且臭 Yrequest+symptom
+医生：有没有口苦，有没有腹胀腹痛？有没有大便习惯改变等？Banswer + symptom
+医生：从你描述的症状来说，这是一个比较典型的慢性胃炎或者胃溃疡的症状，可能已经合并有轻度的食管反流，所以感觉到口臭！Yrequest+symptom
+患者：啊！这么复杂！那我现在要做什么检查和治疗呢？Banswer + symptom

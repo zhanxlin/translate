@@ -1,0 +1,9 @@
+患者：医生你好，我肚子胀，不消化， 胃难受 ！Yrequest+symptom
+医生：请问有发烧寒战吗？Banswer + symptom
+患者：没有发烧但是身体感觉冷！Yrequest+symptom
+医生：有没有恶心呕吐？Banswer + symptom
+患者：恶心呕吐，呕吐过多次。Yrequest+symptom
+医生：最近有没有体重下降？Banswer + symptom
+患者：体重没有下降。Yrequest+symptom
+医生：最近有没有做过什么检查？ Banswer + symptom
+患者：最近也没有检查。 Yrequest+symptom

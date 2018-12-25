@@ -1,0 +1,17 @@
+患者：医生你好，请问我最近吃过饭后走路胃就有点疼是怎么回事啊？ Yrequest+symptom
+医生：具体是在餐后多久发生？Banswer + symptom
+医生：与运动密切相关吗？Yrequest+symptom
+医生：是什么性质的疼痛，是隐痛、绞痛还是胀痛？Banswer + symptom
+医生：在什么位置，在上腹、中腹部还是全腹部？Yrequest+symptom
+医生：有多长时间了？Banswer + symptom
+医生：起病时有不洁饮食等什么诱因吗？Yrequest+symptom
+医生：夜间也会疼吗？Banswer + symptom
+医生：发作多在什么季节，有没有什么规律，？Yrequest+symptom
+医生：痛是局限在上腹部，还有肩部或背部一起疼？Banswer + symptom
+医生：一般腹痛持续多久？Yrequest+symptom
+医生：都有什么方法停止疼痛，还是可以自行停止？Banswer + symptom
+医生：平时还有肚子胀、嗳气、拉肚子、大便干结不好解、胃口变差、大便变黑、没力气、脸色发白这些情况？Yrequest+symptom
+医生：到医院查过吗，查了什么，结果怎样，还吃了什么药，有没有好转？Banswer + symptom
+医生：精神还好，情绪怎样，睡眠如何？Yrequest+symptom
+医生：大小便是否正常，体重有无变化？Banswer + symptom
+医生：餐后腹痛是消化内科疾病如胃炎、胃溃疡、功能性消化不良等疾病的常见表现，可以在医生指导下口服雷贝拉唑等抑酸治疗，如果出现疼痛加重或发作规律变化，有胃口下降，体重消瘦，大便发黑，身体没劲，肚子摸到包的情况，要及时到医院就诊，完善胃镜等检查以明确病情并及时治疗。Yrequest+symptom

@@ -1,0 +1,16 @@
+患者：付医生，您好！我这几天胃一阵一阵会有胀痛（绞痛？）的感觉，腹部没有任何异常感觉。Yrequest+symptom
+医生：你最近大便情况怎么样？Banswer + symptom
+患者：大便正常，偶尔偏稀。Yrequest+symptom
+医生：你会出现恶心呕吐、反酸等症状吗？Banswer + symptom
+患者：极少会反酸。Yrequest+symptom
+医生：你以前有过什么病史吗？Banswer + symptom
+患者：我两三年前有过一次胃炎的病史。请问付医生我现在这种是胃炎复发了吗？然后应该怎么处理比较好呢？ Yrequest+symptom
+医生：你这个胃痛，是吃饭前还是吃饭后痛为主？Banswer + symptom
+患者：有时候上午会痛，然后吃完饭会痛，但也不是每次吃完饭都痛。Yrequest+symptom
+医生：夜间有痛吗？Banswer + symptom
+患者：晚上也会痛。Yrequest+symptom
+医生：以前有痛过吗？Banswer + symptom
+患者：以前有痛过，大概两三年前，吃东西的时候痛。Yrequest+symptom
+医生：当时有及时就医吗？有没有吃药？Banswer + symptom
+患者：去医院，医生说是胃炎，然后给我开了两种药，但是药叫啥名记不清了。吃了一周，然后就好了。直到上周六胃有点不舒服。 Yrequest+symptom
+医生：好的，个人考虑有2个病的可能性稍大点：1、胃炎2、胃溃疡，你可以这样，先吃点药，奥美拉唑每次一片，每天1次；加一个达喜片每天吃3次每次2片；以上2个药对胃炎和胃溃疡都有效果的。如果吃药后3天没有缓解，建议去医院做个胃镜，确诊一下，同时调整治疗方案，谢谢。Banswer + symptom

@@ -1,0 +1,13 @@
+患者：医生，我这段时间只要一生气胃就特别疼。Yrequest+symptom
+医生：除了生气的时候胃疼还有其他什么症状吗？Banswer + symptom
+患者：我平常吃油腻的炸肉什么的，有时感觉恶心。主要是生气胃疼最明显。Yrequest+symptom
+患者：医生，你看我这样子平常需要怎么保养，需要吃药治疗吗？Banswer + symptom
+医生：有没有口苦，有没有腹胀？Yrequest+symptom
+患者：没有没有，我就是吃油腻凉的东西，会恶心，稍微疼，不厉害。生气，胃疼的特别厉害。Banswer + symptom
+医生：持续时间呢？不生气就不痛么？Yrequest+symptom
+患者：会持续很长时间。Banswer + symptom
+医生：有没有大便习惯改变等？Yrequest+symptom
+患者：大便正常。Banswer + symptom
+医生：有没有做过什么检查？ Yrequest+symptom
+患者：没做过检查Banswer + symptom
+医生：你这种是比较典型的慢性胃炎和胃溃疡的表现！建议你做胃镜和幽门螺旋杆菌的检查，平时少生气！要注意休息，避免吃辛辣烟酒的食物。Yrequest+symptom

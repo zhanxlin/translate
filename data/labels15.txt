@@ -1,0 +1,5 @@
+患者：医生，我胃不适，早晚胀痛。Yrequest+symptom
+医生：请问你的胃胀痛和进食有关吗？Banswer + symptom
+患者：饿了会痛，吃完饭好些，多了又胀痛。Yrequest+symptom
+医生：除了胃痛还有什么症状？Banswer + symptom
+患者：早晚打嗝多，肚子多咕咕叫，什么东西翻滚，少许泛酸。 Yrequest+symptom

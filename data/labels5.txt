@@ -1,0 +1,11 @@
+患者：医生，我最近经常打嗝。Yrequest+symptom
+医生：你好一般是什么时候打嗝？Banswer + symptom
+患者：不管饭前饭后睡前睡醒，都会打嗝，吃完饭会立马返流食，吐酸的，苦的！Yrequest+symptom
+医生：还有其他不适吗？Banswer + symptom
+患者：还有口气，舌苔厚白，想知道主要是什么问题？Yrequest+symptom
+医生：这种症状是典型的胃炎或胃溃疡的症状。Banswer + symptom
+患者：啊。那我需要怎么医治呀？？Yrequest+symptom
+医生：那么，我是建议你到医院做胃镜和幽门螺旋杆菌的检测，在春夏交界之时，胃炎会复发。这往往是因为天气的温差大同时呢。春天会吃很多难以消化，或者是粗纤维的食物。Banswer + symptom
+患者：我可以自己买点什么药来吃嘛？Yrequest+symptom
+医生：如果家里有奥美拉唑和达喜，你可以先吃一段时间。最好是能够把上面的检查做掉。Banswer + symptom
+患者：好的！谢谢医生！Yrequest+symptom

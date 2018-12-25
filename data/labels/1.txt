@@ -1,0 +1,20 @@
+患者：医生，我最近每次吃完饭都感觉到很饱。Yrequest+symptom
+医生：这种情况有多久了？Banswer + symptom
+患者：已经有两个星期左右了。Yrequest+symptom
+医生：饭量有增多吗？Banswer + symptom
+患者：饭量跟以前一样但都感觉比以前很饱。Yrequest+symptom
+医生：除了饱胀还有其他的不舒服吗？Banswer + symptom
+患者：有！我每次吃完饭都会感觉肚脐右上方有一丝丝的痛感。Yrequest+symptom
+医生：按压的时候痛吗？Banswer + symptom
+患者：按下去不疼，就去动身体时候就感觉到，Yrequest+symptom
+医生：大概会持续多久？Banswer + symptom
+患者：过两三个小时可能过了饭气后就没有那种感觉了就是每次吃完饭才有那种感觉的，然后现在这几天到肚脐右下方有一丝丝痛感，但又是过了饭气后又没有那种感觉了，就是动身体时感觉出来的。Yrequest+symptom
+医生：请问你的这种疼痛饭前会有吗？Banswer + symptom
+患者：不吃饭感觉不出来，就是饭后它才会出现这种情况。 Yrequest+symptom
+医生：饱餐后腹痛，首先应该警惕胃溃疡，因为胃溃疡的典型表现就是餐后痛，与餐后刺激胃酸分泌,胃酸刺激溃疡面有关。如果条件允许可以行胃镜明确，其次胆囊炎，特别是进食油腻饮食后出现的腹痛，也要警惕。不过位置一般偏高，右上腹部位会有不适，第三是肠道本身问题，除了器质性因素，多见的还是消化不良。Banswer + symptom
+患者：医生，要怎么治疗呀？Yrequest+symptom
+医生：你可以先控制饮食，不要过饱，进食不要过快，不要太过油腻，餐后不要剧烈运动，可以散散步，有助消化，如果一到二周，确有不适，或者出现症状加重，大便改变，可以就医进一步明确。Banswer + symptom
+患者：医生我很害怕，你说的那这两者都要做手术吗，可不可以用药物治疗的？ Yrequest+symptom
+医生：一般即便是也多可以药物治疗，况且也未必是，不要紧张Banswer + symptom
+患者：好，谢谢你医生！Yrequest+symptom
+医生：早日康复！Banswer + symptom

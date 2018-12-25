@@ -1,0 +1,17 @@
+患者：医生你好，我现在胃或者肚子疼的厉害！Yrequest+symptom
+医生：你胃痛前有吃什么东西吗？Banswer + symptom
+患者：晚餐晚吃了，有点胃痛，吃完一碗面，整个肚子胀痛，我需要马上就医吗？Yrequest+symptom
+医生：平时有胆囊炎等情况吗？Banswer + symptom
+患者：不知道你说的是什么，不过我平时肚子胀的，怀疑是胃气胀，饭后经常打嗝。Yrequest+symptom
+医生：这次是急性发病，前两天有没有吃海鲜或者不新鲜的东西呢？Banswer + symptom
+患者：没有吃海鲜或者不新鲜东西。Yrequest+symptom
+医生：最近有没有喝牛奶和酸奶？ Banswer + symptom
+患者：有喝牛奶。Yrequest+symptom
+医生：有没有拉肚子？Banswer + symptom
+患者：没有拉肚子Yrequest+symptom
+医生：你腹痛的最主要的位置在哪里？有没有发生位置上的变化？Banswer + symptom
+患者：饭前胃痛，饭后胃和上腹痛。 Yrequest+symptom
+医生：如果没有明显的拉肚子，急性胃肠炎的可能性就不是很大。而你腹痛特别明显的话，就要特别当心，比如会不会出现阑尾炎，胰腺炎等等，你今天晚上还是比较重要的，你仔细体会一下，如果疼痛逐渐加重，不能够缓解的话，那就需要到医院急诊科验个血常规，c反应蛋白，淀粉酶。Banswer + symptom
+患者：医生我到底是怎么回事呀？Yrequest+symptom
+医生：你现在的疼痛很可能是胃溃疡，或者是胰腺炎，也有可能是阑尾炎引起的！！请一定要及时就医！避免延误最佳治疗时机！Banswer + symptom
+Yrequest+symptom

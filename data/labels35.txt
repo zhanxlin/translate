@@ -1,0 +1,5 @@
+患者：周医生我老有涨气，气还要乱串，左腹部涨还咕咕叫，用手推咕咕咕响。感觉肠胃都移上来了，睹在胸口了，Yrequest+symptom
+医生：你好请问最近睡眠食欲怎么样？Banswer + symptom
+患者：晚上影响睡觉，食欲也很差。Yrequest+symptom
+医生：体重有明显改变吗？Banswer + symptom
+患者：人消瘦的厉害，医生我要怎么办呀？Yrequest+symptom

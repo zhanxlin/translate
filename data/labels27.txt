@@ -1,0 +1,14 @@
+患者：医生，我大约三周前出现胃烧，饭后胃胀的感觉。近一周胃烧的情况有所缓解，但还是烧！Yrequest+symptom
+医生：可以描述一下你胃烧的部位在哪里吗？Banswer + symptom
+患者：吃完饭左肋骨下方和肋骨中间感觉痛，睡觉时肚脐左边靠近腰的地方有点难受，就是麻麻的那种。Yrequest+symptom
+医生：你平时肚子会咕噜咕噜的叫吗？Banswer + symptom
+患者：有时会！Yrequest+symptom
+医生：大便情况怎样？Banswer + symptom
+患者：大便一天一次，成型。Yrequest+symptom
+医生：有吃过什么胃药吗？Banswer + symptom
+患者：三周前服用达喜和六味安消胶囊，没有明显改善，几天后服用阿莫西林和另一个治疗胃溃疡的药三天，后面没有再服药。Yrequest+symptom
+患者：医生我好害怕，请问我这种情况不去医院可以吗？如果去医院要做什么检查？ Banswer + symptom
+医生：根据这些症状高度怀疑你有胃溃疡。你最好去医院做个胃镜看看胃的病变情况，再做个幽门螺杆菌检查，看看是否有感染。Yrequest+symptom
+患者：这么严重！要怎么办呀？Banswer + symptom
+医生：如果有感染就要先根除，根除后一般症状会消失。如果没有感染再用些治疗胃溃疡的药物，但要规律用药，目前要做胃镜观察病变的程度然后再用药。Yrequest+symptom
+患者：好的！谢谢医生！Banswer + symptom

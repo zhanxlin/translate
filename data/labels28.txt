@@ -1,0 +1,12 @@
+患者：周医生好，我最近右腹有胀气感，胃口不佳。Yrequest+symptom
+医生：从你的症状来说，很有可能是个慢性胃炎或者是胃溃疡。Banswer + symptom
+医生：你以前有什么疾病吗？Yrequest+symptom
+患者：体检查出有胆囊息肉。Banswer + symptom
+医生：平时胃口怎么样？Yrequest+symptom
+患者：平时没什么胃口。医生我这个问题严重吗，请问我需要做哪些检查？ Banswer + symptom
+医生：如果时间比较长，我是建议你到医院消化科做一个幽门螺旋杆菌的检查和胃镜的检查。Yrequest+symptom
+患者：好的，那平时需要注意什么吗？Banswer + symptom
+医生：平时吃饭一定要规律，三餐要按时细嚼慢咽，酸辣已烟酒等刺激饮食要少吃。Yrequest+symptom
+患者：医生我需要吃什么药吗？Banswer + symptom
+医生：医生可以到药店配点奥美拉唑和吗丁啉吃，治疗一周左右，Yrequest+symptom
+患者：好的，感谢医生！Banswer + symptom

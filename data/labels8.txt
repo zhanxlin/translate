@@ -1,0 +1,5 @@
+患者：医生，我吃东西后食物很容易堵在肚子中间部位，很胀是怎么回事？Yrequest+symptom
+医生：除了腹胀还有其他不舒服吗？会腹痛吗？Banswer + symptom
+患者：长时间没吃东西，或者稍晚一点吃，肚子会隐隐通。Yrequest+symptom
+医生：吃了饭以后肚子痛会缓解吗？Banswer + symptom
+患者：接着进食后肚子会更加痛。Yrequest+symptom

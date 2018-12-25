@@ -1,0 +1,12 @@
+患者：您好医生我最近感觉吃了就撑，不消化。还有胃痛。Yrequest+symptom
+医生：你好可以描述一下你胃痛的部位吗？Banswer + symptom
+患者：右侧腹部上部位靠近胃的边上。Yrequest+symptom
+医生：按压会有变化吗？Banswer + symptom
+患者：挤压有酸痛感，不挤压没有感觉。Yrequest+symptom
+医生：最近大便怎么样？Banswer + symptom
+患者：好像排便增多，有些时候吃好刺激的就会闹肚子。Yrequest+symptom
+医生：这种症状有多久了？Banswer + symptom
+患者：已经有5天左右。 Yrequest+symptom
+患者：你好，这是一个比较典型的胃炎或者胃溃疡的症状。发病时间不是很长，首先你可以通过饮食来调整，比如三餐规律美餐呢，量不要太多，细嚼慢咽，避免酸辣的饮食。如果经过这样调整，还不见缓解，你要到医院的消化科就诊，查一下幽门螺旋杆菌和胃镜Banswer + symptom
+患者：谢谢医生会不会是胆囊上的问题，明天我要去医院，需要做个相关B超嘛，如果要做需要做什么？Yrequest+symptom
+医生：做个上腹部B超是比较方便的，我也是建议做的。大医院消化科找医生一起开，一定要空腹去。 Banswer + symptom

@@ -1,0 +1,16 @@
+患者：医生，我肚子胀痛感，已经持续了快三天。Yrequest+symptom
+医生：你好请问具体是在哪一些部位？Banswer + symptom
+患者：左边腹部上部中部。Yrequest+symptom
+医生：你的疼痛是持续的还是间断性的？Banswer + symptom
+患者：并不是持续的疼痛的，一阵一阵的。Yrequest+symptom
+医生：你的腹痛和进食有关吗？Banswer + symptom
+患者：胃部在饱腹跟空腹状态都会有难受。Yrequest+symptom
+医生：请问是哪一种性质的疼痛呢？Banswer + symptom
+患者：轻微酸痛感有灼烧感。Yrequest+symptom
+医生：有没有什么可以缓解的方式吗？Banswer + symptom
+患者： 在喝热水吃饭吃胃部不适感暂时缓解。Yrequest+symptom
+医生：还有其他不舒服吗？Banswer + symptom
+患者：没胃口轻微有想吐的感觉，胀气，嗳气。嗝气增多。Yrequest+symptom
+医生：你的大便情况怎么样？Banswer + symptom
+患者：有便秘史，吃了通便药后，拉出来的屎是稀的。Yrequest+symptom
+患者：我因不在国内没法及时就医，预约英国的医生估计要在一星期后，想问问到底出现什么问题有什么药可以缓解症状？ Banswer + symptom
